@@ -55,7 +55,18 @@ I am a student developer who loves exploring new things. **I build whatever come
 <img src="https://readme.u14.app/api/github/trophies?userId=WaewwsbiA3Omri6WQQgcUfEFbp1EhjqG" width="100%" alt="GitHub Trophies" />
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuwei-crg/wuwei-crg/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuwei-crg/wuwei-crg/output/github-snake.svg">
+  <img alt="github pacman animation" src="https://raw.githubusercontent.com/wuwei-crg/wuwei-crg/output/github-snake.svg">
+</picture>
+
+</div>
+
 ---
+
 <div align="center">
 Turning random ideas into reality 🚀
 </div>
