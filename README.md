@@ -38,21 +38,17 @@ I am a student developer who loves exploring new things. **I build whatever come
 </div>
 
 ## 🏆 Recent Explorations
-<!-- 已替换为国内稳定加载的镜像源，完美解决越界和加载问题 -->
-<div align="center">
-  <a href="https://github.com/wuwei-crg/LXB-Framework">
-    <img src="https://github-readme-stats.lithub.cc/api/pin/?username=wuwei-crg&repo=LXB-Framework&theme=tokyonight&show_icons=true" alt="LXB-Framework" width="45%" />
-  </a>
-</div>
+<!-- 采用原生 Markdown 排版，保证 100% 稳定加载，永不越界 -->
+### 🧰 [LXB-Framework](https://github.com/wuwei-crg/LXB-Framework)
+> Android automation framework with persistent daemon and scheduled multi-task execution. <br>
+> ![Stars](https://img.shields.io/github/stars/wuwei-crg/LXB-Framework?style=social)
+### 🗺️ [LXB-MapBuilder](https://github.com/wuwei-crg/LXB-MapBuilder)
+> Supporting mapping utility for building execution maps in the LXB ecosystem. <br>
+> ![Stars](https://img.shields.io/github/stars/wuwei-crg/LXB-MapBuilder?style=social)
+### 📂 [LXB-MapRepo](https://github.com/wuwei-crg/LXB-MapRepo)
+> Repository management tool for coordinating and storing LXB map resources. <br>
+> ![Stars](https://img.shields.io/github/stars/wuwei-crg/LXB-MapRepo?style=social)
 <br>
-<div align="center">
-  <a href="https://github.com/wuwei-crg/LXB-MapBuilder">
-    <img src="https://github-readme-stats.lithub.cc/api/pin/?username=wuwei-crg&repo=LXB-MapBuilder&theme=tokyonight&show_icons=true" alt="LXB-MapBuilder" width="45%" />
-  </a>
-  <a href="https://github.com/wuwei-crg/LXB-MapRepo">
-    <img src="https://github-readme-stats.lithub.cc/api/pin/?username=wuwei-crg&repo=LXB-MapRepo&theme=tokyonight&show_icons=true" alt="LXB-MapRepo" width="45%" />
-  </a>
-</div>
 
 ## 🏅 GitHub Trophies
 <div align="center">
