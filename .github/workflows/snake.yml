@@ -1,18 +1,19 @@
 name: generate animation
 
 on:
-  # 每 24 小时自动运行一次
   schedule:
     - cron: "0 */24 * * *" 
-  # 允许你手动点击运行
   workflow_dispatch:
-  # 每次你推代码到 main 分支时运行
   push:
     branches:
     - main
 
 jobs:
   generate:
+    # 关键修复：赋予 Github Action 写入权限，解决 exit code 128
+    permissions: 
+      contents: write
+      
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -26,7 +27,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: push github-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # 顺手升级到 v4，解决 Node.js 20 的警告
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
