@@ -39,7 +39,7 @@ I am a student developer who loves exploring new things. **I build whatever come
 
 ## 🏆 Recent Explorations
 <!-- 采用原生 Markdown 排版，保证 100% 稳定加载，永不越界 -->
-### 🧰 [LXB-Framework](https://github.com/wuwei-crg/LXB-Framework)
+### 🧰 [AutoLXB](https://github.com/wuwei-crg/AutoLXB)
 > Android automation framework with persistent daemon and scheduled multi-task execution. <br>
 > ![Stars](https://img.shields.io/github/stars/wuwei-crg/LXB-Framework?style=social)
 ### 🗺️ [LXB-MapBuilder](https://github.com/wuwei-crg/LXB-MapBuilder)
