@@ -7,7 +7,6 @@
 <h1 align="center">wuwei-crg</h1>
 
 <p align="center">
-  <b>Idea-driven Student Developer 💡</b> <br>
   Beijing, China | Beijing University of Posts and Telecommunications
 </p>
 
@@ -15,16 +14,7 @@
 
 ## 👋 About Me
 
-I am a student developer who loves exploring new things. **I build whatever comes to mind!** 
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-</p>
+I build whatever comes to mind
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -65,8 +55,3 @@ I am a student developer who loves exploring new things. **I build whatever come
 
 </div>
 
----
-
-<div align="center">
-Turning random ideas into reality 🚀
-</div>
